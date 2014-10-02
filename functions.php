@@ -23,20 +23,24 @@ function eleven40_enqueue_scripts_styles() {
 	wp_enqueue_script( 'eleven40-responsive-menu', get_bloginfo( 'stylesheet_directory' ) . '/js/responsive-menu.js', array( 'jquery' ), '1.0.0' );
 
 	wp_enqueue_style( 'dashicons' );
-	wp_enqueue_style( 'google-fonts', '//fonts.googleapis.com/css?family=Lora:400,700|Oswald:400', array(), PARENT_THEME_VERSION );
+	//wp_enqueue_style( 'google-fonts', '//fonts.googleapis.com/css?family=Lora:400,700|Oswald:400', array(), PARENT_THEME_VERSION);
+    wp_enqueue_style( 'google-fonts', '//fonts.googleapis.com/css?family=Arvo:400,700|Droid+Sans', array(), PARENT_THEME_VERSION);
 
 }
+//fonts.googleapis.com/css?family=Ovo|Muli
 
 //* Add new featured image size
 add_image_size( 'grid-featured', 270, 100, TRUE );
 
 //* Add support for custom header
+/*
 add_theme_support( 'custom-header', array(
 	'width'           => 320,
 	'height'          => 65,
 	'header-selector' => '.site-header .title-area',
 	'header-text'     => false
 ) );
+*/
 
 //* Add support for structural wraps
 add_theme_support( 'genesis-structural-wraps', array(
@@ -67,9 +71,45 @@ add_theme_support( 'genesis-style-selector', array(
 	'eleven40-pro-red'   => __( 'eleven40 Pro Red', 'eleven40' )
 ) );
 
+
+// BRANDING HEADER AREA
+
+function tis_test()
+{
+echo ('<test>');
+}
+//add_action( 'genesis_after_header', 'tis_test',2 );
+
+function tis_header_branding_left()
+{
+echo ('<div class="head-branding"><div class="wrap"><div class="head-branding-left one-half first"><div class="head-branding-logo"></div>');
+}
+add_action( 'genesis_after_header', 'tis_header_branding_left',2 );
+
+//* Reposition the site title (logo)
+remove_action( 'genesis_site_title', 'genesis_seo_site_title' );
+add_action( 'genesis_after_header', 'genesis_seo_site_title' ,4);
+
+function tis_header_branding_right()
+{
+echo ('</div><div class="head-branding-right one-half"><div class="head-contact-info"><p>01484 640 471<br>info@theinsuranceshop.co.uk</p></div>');  
+}
+add_action( 'genesis_after_header', 'tis_header_branding_right',6 );
+
+//* Reposition the secondary navigation menu
+remove_action( 'genesis_after_header', 'genesis_do_subnav' );
+add_action( 'genesis_after_header', 'genesis_do_subnav', 12 );
+
+function tis_header_branding_wrap_end()
+{
+echo ('</div></div></div>');
+}
+add_action( 'genesis_after_header', 'tis_header_branding_wrap_end',20 );
+
 //* Reposition the site description
 remove_action( 'genesis_site_description', 'genesis_seo_site_description' );
-add_action( 'genesis_before_content_sidebar_wrap', 'genesis_seo_site_description' );
+add_action( 'genesis_header', 'genesis_seo_site_description',8 );
+
 
 //* Unregister the header right widget area
 unregister_sidebar( 'header-right' );
@@ -77,18 +117,12 @@ unregister_sidebar( 'header-right' );
 //* Remove breadcrumb and navigation meta boxes
 add_action( 'genesis_theme_settings_metaboxes', 'eleven40_remove_genesis_metaboxes' );
 function eleven40_remove_genesis_metaboxes( $_genesis_theme_settings_pagehook ) {
-
     remove_meta_box( 'genesis-theme-settings-nav', $_genesis_theme_settings_pagehook, 'main' );
-
 }
 
 //* Reposition the primary navigation menu
 remove_action( 'genesis_after_header', 'genesis_do_nav' );
 add_action( 'genesis_header', 'genesis_do_nav', 12 );
-
-//* Reposition the secondary navigation menu
-remove_action( 'genesis_after_header', 'genesis_do_subnav' );
-add_action( 'genesis_footer', 'genesis_do_subnav', 12 );
 
 //* Remove output of primary navigation right extras
 remove_filter( 'genesis_nav_items', 'genesis_nav_right', 10, 2 );
@@ -155,7 +189,7 @@ function sp_footer_creds_text() {
 
 //* Redirect non-admins to the homepage after logging into the site.
 
-function soi_login_redirect( $redirect_to, $request, $user  ) {
+function tis_login_redirect( $redirect_to, $request, $user  ) {
 	return ( is_array( $user->roles ) && in_array( 'administrator', $user->roles ) ) ? admin_url() : site_url();
 } 
-add_filter( 'login_redirect', 'soi_login_redirect', 10, 3 );
+add_filter( 'login_redirect', 'tis_login_redirect', 10, 3 );

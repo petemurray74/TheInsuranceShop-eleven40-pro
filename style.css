@@ -1,3 +1,4 @@
+/* MIXINS */
 /*
 	Theme Name: eleven40 Pro Theme
 	Theme URI: http://my.studiopress.com/themes/eleven40/
@@ -300,8 +301,8 @@ Defaults
 --------------------------------------------- */
 body {
   background-color: #fff;
-  color: #000;
-  font-family: 'Lora', serif;
+  color: #444444;
+  font-family: "Arvo", serif;
   font-size: 18px;
   line-height: 1.625;
   -webkit-font-smoothing: antialiased;
@@ -335,7 +336,7 @@ input[type="submit"],
 }
 
 a {
-  color: #ed702b;
+  color: #f28215;
   text-decoration: none;
 }
 
@@ -394,8 +395,8 @@ h3,
 h4,
 h5,
 h6 {
-  color: #000;
-  font-family: 'Oswald', sans-serif;
+  color: #0077AF;
+  font-family: "Droid Sans", serif;
   font-weight: 400;
   line-height: 1.2;
   margin: 0;
@@ -458,7 +459,7 @@ textarea {
   border-radius: 3px;
   box-shadow: 1px 1px 3px #eee inset;
   color: #999;
-  font-family: 'Lora', serif;
+  font-family: "Arvo", serif;
   font-size: 16px;
   padding: 16px;
   width: 100%;
@@ -486,7 +487,7 @@ input[type="submit"],
   box-shadow: none;
   color: #fff;
   cursor: pointer;
-  font-family: 'Oswald', sans-serif;
+  font-family: "Droid Sans", serif;
   font-size: 14px;
   font-weight: 400;
   letter-spacing: 1px;
@@ -563,10 +564,6 @@ Structure and Layout
 .site-inner {
   clear: both;
   margin: 65px 0 40px;
-}
-
-.site-inner .wrap {
-  border-bottom: double #ddd;
 }
 
 .eleven40-landing .site-inner {
@@ -858,7 +855,7 @@ img.alignright,
 .archive-description h1,
 .author-box h1 {
   color: #fff;
-  font-family: 'Lora', serif;
+  font-family: "Arvo", serif;
   font-size: 16px;
   font-weight: 700;
   margin-bottom: 4px;
@@ -987,30 +984,19 @@ Site Header
   top: 32px;
 }
 
-.header-image .site-header {
-  padding: 0;
-}
-
 /* Title Area
 --------------------------------------------- */
 .title-area {
   float: left;
-  width: 320px;
-}
-
-.header-image .title-area {
-  padding: 0;
 }
 
 .site-title {
-  font-family: 'Oswald', sans-serif;
+  font-family: "Droid Sans", serif;
   font-size: 24px;
   font-weight: 400;
   letter-spacing: 1px;
-  line-height: 1;
   margin: 0;
   padding: 20px 0;
-  text-transform: uppercase;
 }
 
 .header-image .site-title {
@@ -1019,27 +1005,12 @@ Site Header
 
 .site-title a,
 .site-title a:hover {
-  color: #fff;
+  color: #333;
   text-decoration: none;
 }
 
-.header-image .site-title a {
-  display: block;
-  float: left;
-  min-height: 65px;
-  text-indent: -9999px;
-  width: 100%;
-}
-
 .site-description {
-  border-bottom: double #ddd;
-  border-top: double #ddd;
-  font-family: 'Lora', serif;
-  font-size: 30px;
-  overflow: hidden;
-  margin: 40px 0 0;
-  padding: 24px 0;
-  text-align: center;
+  font-family: "Arvo", serif;
 }
 
 /* Widget Area
@@ -1140,7 +1111,7 @@ Site Navigation
 }
 
 .nav-primary .genesis-nav-menu a {
-  font-family: 'Oswald', sans-serif;
+  font-family: "Droid Sans", serif;
   font-size: 14px;
 }
 
@@ -1171,7 +1142,7 @@ Site Navigation
 }
 
 .nav-secondary a {
-  font-family: 'Lora', serif;
+  font-family: "Arvo", serif;
   margin: 0 10px;
   padding: 0;
 }
@@ -1303,7 +1274,7 @@ Content Area
 .archive-pagination,
 .entry-pagination {
   clear: both;
-  font-family: 'Oswald', sans-serif;
+  font-family: "Droid Sans", serif;
   font-size: 14px;
   margin: 40px 0;
 }
@@ -1518,41 +1489,43 @@ Site Footer
 /*
 Color Styles
 ---------------------------------------------------------------------------------------------------- */
+/*
 .eleven40-pro-blue .archive-pagination a,
 .eleven40-pro-blue .button,
-.eleven40-pro-blue .footer-widgets .entry-title a,
+.eleven40-pro-blue .footer-widgets .entry-title a, 
 .eleven40-pro-blue .genesis-nav-menu a,
 .eleven40-pro-blue .site-title a,
 .eleven40-pro-blue .site-title a:hover,
 .eleven40-pro-green .archive-pagination a,
 .eleven40-pro-green .button,
-.eleven40-pro-green .footer-widgets .entry-title a,
+.eleven40-pro-green .footer-widgets .entry-title a, 
 .eleven40-pro-green .genesis-nav-menu a,
 .eleven40-pro-green .site-title a,
 .eleven40-pro-green .site-title a:hover,
 .eleven40-pro-red .archive-pagination a,
 .eleven40-pro-red .button,
-.eleven40-pro-red .footer-widgets .entry-title a,
+.eleven40-pro-red .footer-widgets .entry-title a, 
 .eleven40-pro-red .genesis-nav-menu a,
 .eleven40-pro-red .site-title a,
 .eleven40-pro-red .site-title a:hover {
-  color: #fff;
+	color: #fff;
 }
 
 .eleven40-pro-blue .entry-title a,
 .eleven40-pro-green .entry-title a,
 .eleven40-pro-red .entry-title a {
-  color: #333;
+	color: #333;
 }
 
 .eleven40-pro-blue .nav-secondary a,
 .eleven40-pro-green .nav-secondary a,
 .eleven40-pro-red .nav-secondary a {
-  color: #000;
+	color: #000;
 }
-
+*/
 /* eleven40 Pro Blue
 --------------------------------------------- */
+/*
 .eleven40-pro-blue a,
 .eleven40-pro-blue .entry-title a:hover,
 .eleven40-pro-blue .genesis-nav-menu a:hover,
@@ -1561,7 +1534,7 @@ Color Styles
 .eleven40-pro-blue .nav-secondary .sub-menu a:hover,
 .eleven40-pro-blue .site-footer a:hover,
 .eleven40-pro-blue .site-header .sub-menu a:hover {
-  color: #2aa4cf;
+	color: #2aa4cf;
 }
 
 .eleven40-pro-blue button:hover,
@@ -1571,11 +1544,12 @@ Color Styles
 .eleven40-pro-blue .archive-pagination a:hover,
 .eleven40-pro-blue .archive-pagination li.active a,
 .eleven40-pro-blue .button:hover {
-  background-color: #2aa4cf;
+	background-color: #2aa4cf;
 }
-
+*/
 /* eleven40 Pro Green
 --------------------------------------------- */
+/*
 .eleven40-pro-green a,
 .eleven40-pro-green .entry-title a:hover,
 .eleven40-pro-green .genesis-nav-menu a:hover,
@@ -1584,7 +1558,7 @@ Color Styles
 .eleven40-pro-green .nav-secondary .sub-menu a:hover,
 .eleven40-pro-green .site-footer a:hover,
 .eleven40-pro-green .site-header .sub-menu a:hover {
-  color: #6ca741;
+	color: #6ca741;
 }
 
 .eleven40-pro-green button:hover,
@@ -1594,11 +1568,12 @@ Color Styles
 .eleven40-pro-green .archive-pagination a:hover,
 .eleven40-pro-green .archive-pagination li.active a,
 .eleven40-pro-green .button:hover {
-  background-color: #6ca741;
+	background-color: #6ca741;
 }
-
+*/
 /* eleven40 Pro Red
 --------------------------------------------- */
+/*
 .eleven40-pro-red a,
 .eleven40-pro-red .entry-title a:hover,
 .eleven40-pro-red .genesis-nav-menu a:hover,
@@ -1607,7 +1582,7 @@ Color Styles
 .eleven40-pro-red .nav-secondary .sub-menu a:hover,
 .eleven40-pro-red .site-footer a:hover,
 .eleven40-pro-red .site-header .sub-menu a:hover {
-  color: #cf4344;
+	color: #cf4344;
 }
 
 .eleven40-pro-red button:hover,
@@ -1617,9 +1592,9 @@ Color Styles
 .eleven40-pro-red .archive-pagination a:hover,
 .eleven40-pro-red .archive-pagination li.active a,
 .eleven40-pro-red .button:hover {
-  background-color: #cf4344;
+	background-color: #cf4344;
 }
-
+*/
 /*
 Media Queries
 ---------------------------------------------------------------------------------------------------- */
@@ -1653,7 +1628,7 @@ Media Queries
     width: 300px;
   }
 }
-@media only screen and (max-width: 1023px) {
+@media only screen and (max-width: 960px) {
   .header-image .site-header .title-area {
     background-position: center center !important;
   }
@@ -1753,7 +1728,7 @@ Media Queries
     margin: 0;
   }
 }
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 960px) {
   .site-description {
     font-size: 24px;
   }
@@ -1785,15 +1760,149 @@ Media Queries
 }
 /*!
 ----------------------
-INSURANCE SHOP STYLING 
+INSURANCE SHOP STYLING
 
 */
+/*---------------main-------------------*/
+body {
+  font-size: 16px;
+  font-size: 1rem;
+  line-height: 1.4;
+}
+
+h1, h2, h3 {
+  letter-spacing: -2px;
+}
+
+/*--------------structural--------------*/
+.content {
+  width: 800px;
+}
+
+.sidebar-primary {
+  width: 300px;
+}
+
+.wrap {
+  max-width: 1120px;
+}
+
+/*----------------menu header----------------------*/
+.site-header {
+  background-color: #0077AF;
+  border-bottom: 2px solid #006696;
+}
+
+.site-inner {
+  margin: 50px 0 40px;
+}
+
+.site-header {
+  min-height: 50px;
+}
+
+.genesis-nav-menu a {
+  padding: 18px 18px;
+}
+
+.nav-primary .genesis-nav-menu a {
+  font-size: 14px;
+}
+
+.nav-primary a:hover {
+  color: #f28215;
+}
+
+.nav-primary .sub-menu .current-menu-item > a:hover, .nav-primary .sub-menu a:hover {
+  color: #f28215;
+}
+
+.nav-primary .sub-menu a {
+  background-color: #0077AF;
+}
+
+/*--------------------- header branding area-------------------*/
+.head-branding {
+  margin: 50px 0 0 0;
+  background: #fff;
+  overflow: hidden;
+  padding: 20px 0px;
+  border-bottom: 1px solid #e9e9e9;
+  background: url("/wp-content/themes/eleven40-pro/images/grey.png");
+}
+
+.header-image .site-title {
+  height: 145px;
+  background: url("/wp-content/themes/eleven40-pro/images/head-logo.png") no-repeat;
+  font-size: 50px;
+  letter-spacing: -4px;
+  word-spacing: 2px;
+}
+.header-image .site-title a {
+  position: relative;
+  top: 39px;
+  left: 162px;
+  color: #444444;
+  text-shadow: 1px 1px 0px #fff;
+}
+
+.head-branding-right {
+  padding: 20px 0 0 0;
+  text-align: right;
+  text-shadow: 1px 1px 0px #fff;
+}
+
+.site-description {
+  font-size: 20px;
+  font-size: 1.25rem;
+  letter-spacing: -1px;
+  margin: 12px 0;
+  float: left;
+  font-family: "Droid Sans", serif;
+  color: #e2f6ff;
+  text-shadow: 0px 0px 1px #333;
+}
+
+.head-contact-info p {
+  line-height: 100%;
+  font-size: 22px;
+  font-size: 1.375rem;
+}
+
+/*---------------------secondary menu------------------*/
+.nav-secondary .genesis-nav-menu a {
+  padding: 5px 10px;
+  font-family: "Droid Sans", serif;
+  font-size: 18px;
+  font-size: 1.125rem;
+  color: #333;
+  padding-right: 0;
+  margin-right: 0;
+}
+.nav-secondary .genesis-nav-menu a:hover {
+  color: #f28215;
+}
+
+/*----------------------content area-------------------------*/
+.site-inner {
+  margin: 0 0 40px 0;
+}
+
+.content {
+  border-right: 0;
+}
+
+.entry-title {
+  font-size: 37px;
+  font-size: 2.3125rem;
+}
+
 button,
 input[type="button"],
 input[type="reset"],
 input[type="submit"],
 .button {
-  background-color: #ed702b;
+  background-color: #0077AF;
 }
 
 button:hover,
@@ -1801,26 +1910,101 @@ input:hover[type="button"],
 input:hover[type="reset"],
 input:hover[type="submit"],
 .button:hover {
-  background-color: #ff8c4c;
+  background-color: #009ae2;
   color: #fff;
 }
 
-.site-inner {
-  margin: 90px 0 40px;
+/*-----------------SIDEBARS-------------------------------*/
+.sidebar .widget {
+  background: #f28215;
+  color: #fff;
+}
+.sidebar .widget a {
+  color: #fff;
+  border-bottom: 1px dotted #fff;
+}
+.sidebar .widget a:hover {
+  text-decoration: none;
+  border-bottom: 1px solid #fff;
+}
+.sidebar .widget li {
+  border-bottom: 1px solid #fff6ed;
+}
+.sidebar .widget-title {
+  font-size: 18px;
+  font-size: 1.125rem;
+  text-transform: uppercase;
+  padding: 1em 1em 0 1em;
+  color: #fff6ed;
+  margin-bottom: 5px;
+}
+.sidebar .widget-title + div {
+  padding: 1em;
 }
 
-.site-header {
-  min-height: 90px;
+/*----------------------------FOOTER-------------------*/
+.footer-widgets {
+  background: #f6f6f6;
+  border-top: 10px solid #f28215;
+}
+.footer-widgets h1, .footer-widgets h2, .footer-widgets h3, .footer-widgets h4, .footer-widgets h5, .footer-widgets .widget-title {
+  color: #444;
+}
+.footer-widgets .entry-title a {
+  color: #444;
 }
 
-.header-image .site-title a {
-  min-height: 90px;
-}
+/*-----------------------MEDIA QUERIES--------------------*/
+@media only screen and (max-width: 1139px) {
+  .content {
+    width: 620px;
+  }
 
-.genesis-nav-menu a {
-  padding: 38px 18px;
-}
+  .sidebar-primary {
+    width: 300px;
+  }
 
-.nav-primary .genesis-nav-menu a {
-  font-size: 14px;
+  .wrap {
+    max-width: 940px;
+  }
+}
+@media only screen and (max-width: 960px) {
+  .header-image .site-title {
+    text-align: left;
+    font-size: 37px;
+    font-size: 2.3125rem;
+    letter-spacing: -1px;
+  }
+
+  .head-branding {
+    padding: 20px 5%;
+    margin-top: 0;
+  }
+
+  .site-header {
+    padding: 0px 5%;
+  }
+
+  .content {
+    width: 100%;
+  }
+
+  .sidebar-primary {
+    width: 100%;
+  }
+
+  .wrap {
+    max-width: 768px;
+  }
+
+  .head-contact-info, .nav-secondary .genesis-nav-menu {
+    text-align: left;
+  }
+
+  .nav-secondary .genesis-nav-menu a {
+    padding-left: 0;
+    margin-left: 0;
+    padding-right: 10px;
+    margin-right: 10px;
+  }
 }

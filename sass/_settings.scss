@@ -1,5 +1,40 @@
-$insurance_secondary:#333333;
-$insurance_primary:#ed702b;
+$insurance_secondary:#0077AF; //teal
+$insurance_primary:#f28215; //orange logo colour is de932e, bright orange is fc8e08 
+$insurance_secondary_dark:darken( $insurance-secondary, 5% );; //dk teal
+$insurance_secondary-light:lighten( $insurance-secondary, 60% );
+$insurance_secondary-light2:lighten( $insurance-secondary, 10% );
 
-$header_height:90px;
+$body_font: 'Arvo', serif;
+$body_font_color:#444444;
+$headings_font: 'Droid Sans', serif;
+$headings_color:#0077AF;
+
+$header_height:50px;
 $primary_menu_font_size:14px;
+
+$insurance-background-one:#eeeeee;
+$insurance-background-one-light:lighten( $insurance-background-one, 4% ); //lighter grey
+$insurance-background-two:lighten($insurance-primary, 20%); //pale orange
+$insurance-background-two-light:lighten( (saturate( $insurance-primary, 20% )), 45% ) ; // mid orange
+
+/* MIXINS */
+
+@function calculateRem($size) {
+  $remSize: $size / 16px;
+  @return $remSize * 1rem;
+}
+
+@mixin font-size($size) {
+  font-size: $size;
+  font-size: calculateRem($size);
+}
+
+@mixin simple-text-shadow($color)
+    {
+    text-shadow: 1px 1px 0px $color;
+    }
+
+@mixin simple-text-outline($color)
+    {
+    text-shadow: 0px 0px 1px $color;
+    }
