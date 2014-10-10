@@ -29,5 +29,12 @@ remove_action( 'genesis_entry_header', 'genesis_do_post_title' );
 //* Remove breadcrumbs
 remove_action( 'genesis_before_loop', 'genesis_do_breadcrumbs');
 
+//* Bring in static content to homepage
+add_filter ('genesis_after_content','tis_homepage_content');
+function tis_homepage_content()
+{
+    get_template_part('homepage_content');
+}
+
 //* Run the Genesis loop
 genesis();
