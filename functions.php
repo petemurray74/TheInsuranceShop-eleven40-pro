@@ -24,7 +24,7 @@ function eleven40_enqueue_scripts_styles() {
 
 	wp_enqueue_style( 'dashicons' );
 	//wp_enqueue_style( 'google-fonts', '//fonts.googleapis.com/css?family=Lora:400,700|Oswald:400', array(), PARENT_THEME_VERSION);
-    wp_enqueue_style( 'google-fonts', '//fonts.googleapis.com/css?family=Arvo:400,700|Droid+Sans', array(), PARENT_THEME_VERSION);
+    wp_enqueue_style( 'google-fonts', '//fonts.googleapis.com/css?family=Arvo:400,700|Droid+Sans:400,700', array(), PARENT_THEME_VERSION);
 
 }
 //fonts.googleapis.com/css?family=Ovo|Muli
