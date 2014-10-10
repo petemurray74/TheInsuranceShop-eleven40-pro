@@ -92,8 +92,8 @@ overflow: hidden;
 .header-image .site-title{
 height:145px;
 background: url('/wp-content/themes/eleven40-pro/images/head-logo.png') no-repeat;
-font-size: 50px;
-letter-spacing: -4px;
+font-size: 47px;
+letter-spacing: -3px;
 word-spacing: 2px;
     a{
     position: relative;
@@ -181,6 +181,73 @@ input:hover[type="submit"],
 .button:hover {
 	background-color:$insurance_secondary-light2;
 	color:#fff;
+}
+
+/*-----------------HOME PAGE-------------------------------*/
+
+.home{
+    .content{
+        display:none;
+    }
+}
+
+.home-strap{
+color: #0077AF;
+font-size: 32px;
+text-align: center;
+letter-spacing: -1px;
+margin: 1em 0;
+text-shadow: 0px 1px 0px rgba(0,0,0,0.1);
+padding:0 5%;    
+}
+
+.home-box {
+    h3{
+        text-shadow: 0px 1px 0px rgba(0,0,0,0.4);
+        color: rgb(255,255,255);
+    }
+    ul{
+        color: rgba(255,255,255,0.8);
+        list-style-type: none;
+        
+        a{
+            color: rgba(255, 255, 255, 0.9);
+            text-shadow: 1px 1px 0px rgba(0,0,0,0.2);
+        }
+        li{
+            margin-bottom: 0.8em;
+            line-height:1.1;
+        } 
+        }
+    p:last-child{
+    margin-bottom:0;
+    }
+    background:$insurance-primary;
+    padding: 1em;  
+    font-family: $headings_font;
+    box-shadow: inset 0px 0px 10px 1px rgba(0,0,0,0.1);
+}
+
+.box2-1 {background:$insurance-primary url('images/home-page-background_03.png') no-repeat}
+.box3-1 {background:$insurance-primary url('images/home-page-background_02.png') no-repeat}
+.box4-1 {background:$insurance-primary url('images/home-page-background_01.png') no-repeat}
+.box2-1,.box3-1,.box4-1 {
+    height:500px;
+}
+.box1-1,.box1-2 {
+    margin-bottom:1em;
+}
+.box1-2 {
+    font-size: 20px;
+}
+
+.box1-2{
+    color:#444;
+    font-weight:700;
+}
+
+.box1-1 , .box1-3 {
+    color:#fff;
 }
 
 /*-----------------SIDEBARS-------------------------------*/
@@ -291,5 +358,20 @@ input:hover[type="submit"],
         }
         }
     }
-    
+    //homepage
+    .home-box {
+        ul{
+            margin-top:1em;
+        }
+    }
+    .box2-1,.box3-1,.box4-1{
+        background:$insurance-primary;
+        margin-top:1em;
+        height:auto;
+    }
+    .box2-1,.box4-1{
+        background:$insurance-secondary;
+        margin-top:1em;
+        height:auto;
+    }
 }
