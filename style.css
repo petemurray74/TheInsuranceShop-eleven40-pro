@@ -76,86 +76,105 @@ HTML5 Reset
 /* Baseline Normalize
 	normalize.css v2.1.2 | MIT License | git.io/normalize
 --------------------------------------------- */
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\0000384}}
 article, aside, details, figcaption, figure, footer, header, hgroup, main, nav, section, summary {
   display: block;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\0000384}}
 audio, canvas, video {
   display: inline-block;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\0000384}}
 audio:not([controls]) {
   display: none;
   height: 0;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\0000384}}
 [hidden] {
   display: none;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\0000384}}
 html {
   font-family: sans-serif;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\0000384}}
 body {
   margin: 0;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\0000384}}
 a:focus {
   outline: thin dotted;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\0000384}}
 a:active, a:hover {
   outline: 0;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\0000384}}
 h1 {
   font-size: 2em;
   margin: .67em 0;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\0000384}}
 abbr[title] {
   border-bottom: 1px dotted;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\0000384}}
 b, strong {
   font-weight: bold;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\0000384}}
 dfn {
   font-style: italic;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\0000384}}
 hr {
   -moz-box-sizing: content-box;
   box-sizing: content-box;
   height: 0;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\0000384}}
 mark {
   background: #ff0;
   color: #000;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\0000384}}
 code, kbd, pre, samp {
   font-family: monospace,serif;
   font-size: 1em;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\0000384}}
 pre {
   white-space: pre-wrap;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\0000384}}
 q {
   quotes: "\201C" "\201D" "\2018" "\2019";
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\0000384}}
 small {
   font-size: 80%;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\0000384}}
 sub, sup {
   font-size: 75%;
   line-height: 0;
@@ -163,65 +182,79 @@ sub, sup {
   vertical-align: baseline;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\0000384}}
 sup {
   top: -0.5em;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\0000384}}
 sub {
   bottom: -0.25em;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\0000384}}
 img {
   border: 0;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\0000384}}
 svg:not(:root) {
   overflow: hidden;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\0000384}}
 figure {
   margin: 0;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\0000384}}
 fieldset {
   border: 1px solid silver;
   margin: 0 2px;
   padding: .35em .625em .75em;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\0000384}}
 legend {
   border: 0;
   padding: 0;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\0000384}}
 button, input, select, textarea {
   font-family: inherit;
   font-size: 100%;
   margin: 0;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\0000384}}
 button, input {
   line-height: normal;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\0000384}}
 button, select {
   text-transform: none;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\0000384}}
 button, html input[type="button"], input[type="reset"], input[type="submit"] {
   -webkit-appearance: button;
   cursor: pointer;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\0000384}}
 button[disabled], html input[disabled] {
   cursor: default;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\0000384}}
 input[type="checkbox"], input[type="radio"] {
   box-sizing: border-box;
   padding: 0;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\0000384}}
 input[type="search"] {
   -webkit-appearance: textfield;
   -moz-box-sizing: content-box;
@@ -229,20 +262,24 @@ input[type="search"] {
   box-sizing: content-box;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\0000384}}
 input[type="search"]::-webkit-search-cancel-button, input[type="search"]::-webkit-search-decoration {
   -webkit-appearance: none;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\0000384}}
 button::-moz-focus-inner, input::-moz-focus-inner {
   border: 0;
   padding: 0;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\0000384}}
 textarea {
   overflow: auto;
   vertical-align: top;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\0000384}}
 table {
   border-collapse: collapse;
   border-spacing: 0;
@@ -250,6 +287,7 @@ table {
 
 /* Box Sizing
 --------------------------------------------- */
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\0000389}}
 *,
 input[type="search"] {
   -webkit-box-sizing: border-box;
@@ -259,6 +297,7 @@ input[type="search"] {
 
 /* Float Clearing
 --------------------------------------------- */
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\0000399}}
 .author-box:before,
 .clearfix:before,
 .entry-comments:before,
@@ -276,6 +315,7 @@ input[type="search"] {
   display: table;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003116}}
 .author-box:after,
 .clearfix:after,
 .entry-comments:after,
@@ -299,6 +339,7 @@ Defaults
 ---------------------------------------------------------------------------------------------------- */
 /* Typographical Elements
 --------------------------------------------- */
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003141}}
 body {
   background-color: #fff;
   color: #444444;
@@ -308,10 +349,12 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003150}}
 body.eleven40-landing {
   background-color: #000;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003154}}
 a,
 button,
 input[type="button"],
@@ -325,49 +368,59 @@ input[type="submit"],
   transition: all 0.1s ease-in-out;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003167}}
 ::-moz-selection {
   background-color: #000;
   color: #fff;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003172}}
 ::selection {
   background-color: #000;
   color: #fff;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003177}}
 a {
   color: #f28215;
   text-decoration: none;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003182}}
 a:hover {
   text-decoration: underline;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003186}}
 p {
   margin: 0 0 24px;
   padding: 0;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003191}}
 strong {
   font-weight: 700;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003195}}
 ol,
 ul {
   margin: 0;
   padding: 0;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003201}}
 blockquote,
 blockquote::before {
   color: #999;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003206}}
 blockquote {
   margin: 40px 40px 24px;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003210}}
 blockquote::before {
   content: "\201C";
   display: block;
@@ -378,24 +431,27 @@ blockquote::before {
   top: -10px;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003220}}
 .entry-content code {
   background-color: #000;
   color: #ddd;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003225}}
 cite {
   font-style: normal;
 }
 
 /* Headings
 --------------------------------------------- */
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003232}}
 h1,
 h2,
 h3,
 h4,
 h5,
 h6 {
-  color: #0077AF;
+  color: #0077af;
   font-family: "Droid Sans", serif;
   font-weight: 400;
   line-height: 1.2;
@@ -404,32 +460,39 @@ h6 {
   padding: 0;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003247}}
 h1 {
   font-size: 36px;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003251}}
 h2 {
   font-size: 30px;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003255}}
 h3 {
   font-size: 24px;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003259}}
 h4 {
   font-size: 20px;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003263}}
 h5 {
   font-size: 18px;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003267}}
 h6 {
   font-size: 16px;
 }
 
 /* Objects
 --------------------------------------------- */
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003274}}
 embed,
 iframe,
 img,
@@ -439,10 +502,12 @@ video,
   max-width: 100%;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003283}}
 img {
   height: auto;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003287}}
 .featured-content img,
 .gallery img {
   width: auto;
@@ -451,6 +516,7 @@ img {
 
 /* Forms
 --------------------------------------------- */
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003295}}
 input,
 select,
 textarea {
@@ -465,18 +531,21 @@ textarea {
   width: 100%;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003309}}
 input[type="checkbox"],
 input[type="image"],
 input[type="radio"] {
   width: auto;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003315}}
 input:focus,
 textarea:focus {
   border: 1px solid #ccc;
   outline: none;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003321}}
 button,
 input[type="button"],
 input[type="reset"],
@@ -497,6 +566,7 @@ input[type="submit"],
   -webkit-font-smoothing: antialiased;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003341}}
 button:hover,
 input:hover[type="button"],
 input:hover[type="reset"],
@@ -506,6 +576,7 @@ input:hover[type="submit"],
   color: #fff;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003350}}
 .button,
 .button:hover {
   border-radius: 3px;
@@ -513,6 +584,7 @@ input:hover[type="submit"],
   text-decoration: none;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003357}}
 input[type="search"]::-webkit-search-cancel-button,
 input[type="search"]::-webkit-search-results-button {
   display: none;
@@ -520,6 +592,7 @@ input[type="search"]::-webkit-search-results-button {
 
 /* Tables
 --------------------------------------------- */
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003365}}
 table {
   border-collapse: collapse;
   border-spacing: 0;
@@ -528,20 +601,24 @@ table {
   width: 100%;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003373}}
 tbody {
   border-bottom: 1px solid #ddd;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003377}}
 th,
 td {
   text-align: left;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003382}}
 th {
   font-weight: bold;
   text-transform: uppercase;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003387}}
 td {
   border-top: 1px solid #ddd;
   padding: 6px 0;
@@ -552,25 +629,30 @@ Structure and Layout
 ---------------------------------------------------------------------------------------------------- */
 /* Site Containers
 --------------------------------------------- */
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003400}}
 .wrap {
   margin: 0 auto;
   max-width: 1140px;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003405}}
 .eleven40-landing .wrap {
   max-width: 800px;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003409}}
 .site-inner {
   clear: both;
   margin: 65px 0 40px;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003418}}
 .eleven40-landing .site-inner {
   margin: 0;
   padding: 0;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003423}}
 .eleven40-landing .site-inner .wrap {
   border: none;
 }
@@ -578,22 +660,26 @@ Structure and Layout
 /* Column Widths and Positions
 --------------------------------------------- */
 /* Wrapping div for .content and .sidebar-primary */
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003432}}
 .content-sidebar-sidebar .content-sidebar-wrap,
 .sidebar-content-sidebar .content-sidebar-wrap,
 .sidebar-sidebar-content .content-sidebar-wrap {
   width: 950px;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003438}}
 .content-sidebar-sidebar .content-sidebar-wrap {
   float: left;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003442}}
 .sidebar-sidebar-content .content-sidebar-wrap,
 .sidebar-content-sidebar .content-sidebar-wrap {
   float: right;
 }
 
 /* Content */
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003449}}
 .content {
   border-left: 1px solid #ddd;
   border-right: 1px solid #ddd;
@@ -602,38 +688,45 @@ Structure and Layout
   width: 850px;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003457}}
 .sidebar-content-sidebar .content,
 .sidebar-sidebar-content .content,
 .content-sidebar-sidebar .content {
   width: 660px;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003463}}
 .content-sidebar .content {
   border-left: none;
   float: left;
   padding-left: 0;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003469}}
 .content-sidebar-sidebar .content {
   border-left: none;
   float: left;
   padding-left: 0;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003475}}
 .sidebar-content-sidebar .content {
   float: left;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003479}}
 .sidebar-content .content {
   border-right: none;
   padding-right: 0;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003484}}
 .sidebar-sidebar-content .content {
   border-right: none;
   padding-right: 0;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003489}}
 .full-width-content .content {
   border: none;
   padding: 40px 0 0;
@@ -641,43 +734,51 @@ Structure and Layout
 }
 
 /* Primary Sidebar */
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003497}}
 .sidebar-primary {
   float: right;
   width: 250px;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003502}}
 .sidebar-content .sidebar-primary,
 .sidebar-sidebar-content .sidebar-primary {
   float: left;
 }
 
 /* Secondary Sidebar */
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003509}}
 .sidebar-secondary {
   float: left;
   width: 150px;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003514}}
 .content-sidebar-sidebar .sidebar-secondary {
   float: right;
 }
 
 /* Genesis Grid Loop
 --------------------------------------------- */
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003521}}
 .genesis-grid-even,
 .genesis-grid-odd {
   margin-bottom: 20px;
   width: 48%;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003527}}
 .genesis-grid-even {
   float: right;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003531}}
 .genesis-grid-odd {
   clear: both;
   float: left;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003536}}
 .genesis-grid .entry-title,
 .genesis-grid .entry-title a {
   font-size: 24px;
@@ -687,6 +788,7 @@ Structure and Layout
 /* Column Classes
 	Link: http://twitter.github.io/bootstrap/assets/css/bootstrap-responsive.css
 --------------------------------------------- */
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003546}}
 .five-sixths,
 .four-sixths,
 .one-fourth,
@@ -702,38 +804,46 @@ Structure and Layout
   margin-left: 2.564102564102564%;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003561}}
 .one-half,
 .three-sixths,
 .two-fourths {
   width: 48.717948717948715%;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003567}}
 .one-third,
 .two-sixths {
   width: 31.623931623931625%;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003572}}
 .four-sixths,
 .two-thirds {
   width: 65.81196581196582%;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003577}}
 .one-fourth {
   width: 23.076923076923077%;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003581}}
 .three-fourths {
   width: 74.35897435897436%;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003585}}
 .one-sixth {
   width: 14.52991452991453%;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003589}}
 .five-sixths {
   width: 82.90598290598291%;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003593}}
 .first {
   clear: both;
   margin-left: 0;
@@ -744,35 +854,42 @@ Common Classes
 ---------------------------------------------------------------------------------------------------- */
 /* WordPress
 --------------------------------------------- */
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003606}}
 .avatar {
   float: left;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003610}}
 .alignleft .avatar,
 .author-box .avatar {
   margin-right: 24px;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003615}}
 .alignright .avatar {
   margin-left: 24px;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003619}}
 .author-box .avatar {
   height: 64px;
   width: 64px;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003624}}
 .entry-comments .avatar {
   height: 48px;
   margin: 0 16px 24px 0;
   width: 48px;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003633}}
 .search-form {
   overflow: hidden;
   width: 50%;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003638}}
 .search-form input[type="submit"] {
   border: 0;
   clip: rect(0, 0, 0, 0);
@@ -783,38 +900,45 @@ Common Classes
   width: 1px;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003648}}
 img.centered,
 .aligncenter {
   display: block;
   margin: 0 auto 24px;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003654}}
 img.alignnone {
   margin-bottom: 12px;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003658}}
 .alignleft {
   float: left;
   text-align: left;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003663}}
 .alignright {
   float: right;
   text-align: right;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003668}}
 img.alignleft,
 .featured-content .alignleft img,
 .wp-caption.alignleft {
   margin: 0 24px 24px 0;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003674}}
 img.alignright,
 .featured-content .alignright img,
 .wp-caption.alignright {
   margin: 0 0 24px 24px;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003680}}
 .wp-caption-text {
   font-size: 16px;
   font-weight: 700;
@@ -822,16 +946,19 @@ img.alignright,
   text-align: center;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003690}}
 .widget_calendar table {
   width: 100%;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003694}}
 .widget_calendar td {
   text-align: center;
 }
 
 /* Genesis
 --------------------------------------------- */
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003701}}
 .breadcrumb {
   background-color: #f5f5f5;
   font-size: 16px;
@@ -839,6 +966,7 @@ img.alignright,
   padding: 12px 16px;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003708}}
 .archive-description,
 .author-box {
   background-color: #000;
@@ -847,11 +975,13 @@ img.alignright,
   padding: 40px;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003716}}
 .sidebar-content-sidebar .archive-description,
 .sidebar-content-sidebar .author-box {
   margin: 0 -40px 40px;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003721}}
 .archive-description h1,
 .author-box h1 {
   color: #fff;
@@ -861,6 +991,7 @@ img.alignright,
   margin-bottom: 4px;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003730}}
 .archive-description p,
 .author-box p {
   font-size: 15px;
@@ -869,21 +1000,25 @@ img.alignright,
 
 /* Headings
 --------------------------------------------- */
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003739}}
 .entry-title {
   font-size: 36px;
   line-height: 1;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003744}}
 .entry-title a,
 .sidebar .widgettitle a {
   color: #000;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003749}}
 .entry-title a:hover {
   color: #ed702b;
   text-decoration: none;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003754}}
 .widgettitle {
   font-size: 14px;
   letter-spacing: 1px;
@@ -891,15 +1026,18 @@ img.alignright,
   text-transform: uppercase;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003761}}
 .site-header .widget-area .widgettitle {
   color: #fff;
   margin-bottom: 4px;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003766}}
 .sidebar .widgettitle a {
   border: none;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003770}}
 .archive-title {
   font-size: 20px;
   margin-bottom: 24px;
@@ -910,11 +1048,13 @@ Widgets
 ---------------------------------------------------------------------------------------------------- */
 /* Featured Page and Featured Post
 --------------------------------------------- */
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003783}}
 .featured-content .entry {
   margin-bottom: 12px;
   padding: 0;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003788}}
 .featured-content .entry-title {
   font-size: 24px;
 }
@@ -924,10 +1064,12 @@ Plugins
 ---------------------------------------------------------------------------------------------------- */
 /* Genesis eNews Extended
 --------------------------------------------- */
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003800}}
 .enews-widget input {
   margin-bottom: 16px;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003804}}
 .enews-widget input[type="submit"] {
   margin: 0;
   width: 100%;
@@ -935,18 +1077,21 @@ Plugins
 
 /* Genesis Latest Tweets
 --------------------------------------------- */
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003812}}
 .latest-tweets ul li {
   margin-bottom: 16px;
 }
 
 /* Jetpack
 --------------------------------------------- */
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003819}}
 img#wpstats {
   display: none;
 }
 
 /* Gravity Forms
 --------------------------------------------- */
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003826}}
 div.gform_wrapper input[type="text"],
 div.gform_wrapper textarea,
 div.gform_wrapper .ginput_complex label {
@@ -954,15 +1099,18 @@ div.gform_wrapper .ginput_complex label {
   padding: 16px;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003833}}
 div.gform_wrapper .ginput_complex label {
   padding: 0;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003837}}
 div.gform_wrapper li,
 div.gform_wrapper form li {
   margin: 16px 0 0;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003842}}
 div.gform_wrapper .gform_footer input[type="submit"] {
   font-size: 14px;
 }
@@ -970,6 +1118,7 @@ div.gform_wrapper .gform_footer input[type="submit"] {
 /*
 Site Header
 ---------------------------------------------------------------------------------------------------- */
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003851}}
 .site-header {
   background-color: #000;
   left: 0;
@@ -980,16 +1129,19 @@ Site Header
   z-index: 999;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003861}}
 .admin-bar .site-header {
   top: 32px;
 }
 
 /* Title Area
 --------------------------------------------- */
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003872}}
 .title-area {
   float: left;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003881}}
 .site-title {
   font-family: "Droid Sans", serif;
   font-size: 24px;
@@ -999,22 +1151,26 @@ Site Header
   padding: 20px 0;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003890}}
 .header-image .site-title {
   padding: 0;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003894}}
 .site-title a,
 .site-title a:hover {
   color: #333;
   text-decoration: none;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003908}}
 .site-description {
   font-family: "Arvo", serif;
 }
 
 /* Widget Area
 --------------------------------------------- */
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003922}}
 .site-header .widget-area {
   color: #fff;
   float: right;
@@ -1022,15 +1178,18 @@ Site Header
   width: 800px;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003929}}
 .site-header .search-form {
   float: right;
   margin-top: 6px;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003934}}
 .site-header .widget_text {
   margin-top: 20px;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003938}}
 .site-header .widget_text p {
   margin-bottom: 0;
 }
@@ -1038,6 +1197,7 @@ Site Header
 /*
 Site Navigation
 ---------------------------------------------------------------------------------------------------- */
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003947}}
 .genesis-nav-menu {
   color: #fff;
   line-height: 1;
@@ -1046,6 +1206,7 @@ Site Navigation
   width: 100%;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003955}}
 .genesis-nav-menu .menu-item {
   border-width: 0;
   display: inline-block;
@@ -1054,6 +1215,7 @@ Site Navigation
   text-align: left;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003963}}
 .genesis-nav-menu a {
   border: none;
   color: #fff;
@@ -1062,12 +1224,14 @@ Site Navigation
   position: relative;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003971}}
 .genesis-nav-menu a:hover,
 .genesis-nav-menu .current-menu-item > a {
   color: #ed702b;
   text-decoration: none;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003977}}
 .genesis-nav-menu .sub-menu {
   left: -9999px;
   opacity: 0;
@@ -1081,6 +1245,7 @@ Site Navigation
   z-index: 99;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\00003990}}
 .genesis-nav-menu .sub-menu a {
   background-color: #fff;
   border: 1px solid #eee;
@@ -1091,14 +1256,17 @@ Site Navigation
   width: 190px;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\000031000}}
 .nav-primary .genesis-nav-menu .sub-menu .sub-menu {
   margin: -47px 0 0 189px;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\000031004}}
 .genesis-nav-menu .menu-item:hover {
   position: static;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\000031008}}
 .genesis-nav-menu .menu-item:hover > .sub-menu {
   left: auto;
   opacity: 1;
@@ -1106,64 +1274,76 @@ Site Navigation
 
 /* Primary Navigation
 --------------------------------------------- */
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\000031016}}
 .nav-primary {
   float: right;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\000031020}}
 .nav-primary .genesis-nav-menu a {
   font-family: "Droid Sans", serif;
   font-size: 14px;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\000031025}}
 .nav-primary .genesis-nav-menu > .menu-item > a {
   letter-spacing: 1px;
   text-transform: uppercase;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\000031030}}
 .nav-primary a:hover,
 .nav-primary .current-menu-item > a,
 .nav-primary .sub-menu .current-menu-item > a:hover {
   color: #ed702b;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\000031036}}
 .nav-primary .sub-menu a {
   background-color: #000;
   padding: 16px 20px;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\000031041}}
 .nav-primary .sub-menu .current-menu-item > a {
   color: #fff;
 }
 
 /* Secondary Navigation
 --------------------------------------------- */
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\000031048}}
 .nav-secondary {
   margin-top: 10px;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\000031052}}
 .nav-secondary a {
   font-family: "Arvo", serif;
   margin: 0 10px;
   padding: 0;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\000031058}}
 .nav-secondary a:hover,
 .nav-secondary .current-menu-item > a {
   color: #ed702b;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\000031063}}
 .nav-secondary .sub-menu .current-menu-item > a {
   color: #fff;
 }
 
 /* Responsive Menu
 --------------------------------------------- */
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\000031070}}
 #responsive-menu-icon {
   cursor: pointer;
   display: none;
   margin-bottom: 10px;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\000031076}}
 #responsive-menu-icon::before {
   color: #fff;
   content: "\f333";
@@ -1176,72 +1356,87 @@ Content Area
 ---------------------------------------------------------------------------------------------------- */
 /* Entries
 --------------------------------------------- */
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\000031091}}
 .entry {
   margin-bottom: 40px;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\000031095}}
 .single .entry {
   margin-bottom: 16px;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\000031099}}
 .eleven40-landing .entry {
   background-color: #fff;
   padding: 40px 40px 16px;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\000031104}}
 .genesis-grid {
   font-size: 16px;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\000031108}}
 .entry-content ol,
 .entry-content p,
 .entry-content ul {
   margin-bottom: 26px;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\000031114}}
 .entry-content ol,
 .entry-content ul {
   margin-left: 40px;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\000031119}}
 .entry-content ol > li {
   list-style-type: decimal;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\000031123}}
 .entry-content ul > li {
   list-style-type: disc;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\000031127}}
 .entry-content ol ol,
 .entry-content ul ul,
 .entry-content .wp-caption p {
   margin-bottom: 0;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\000031133}}
 .entry-meta {
   clear: both;
   color: #999;
   font-size: 16px;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\000031139}}
 .genesis-grid .entry-meta {
   font-size: 14px;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\000031143}}
 .entry-header .entry-meta {
   margin-bottom: 24px;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\000031147}}
 .entry-footer .entry-meta {
   border-top: double #ddd;
   padding-top: 12px;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\000031152}}
 .entry-comments-link::before {
   content: "\2014";
   margin: 0 6px 0 2px;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\000031157}}
 .entry-categories,
 .entry-tags {
   display: block;
@@ -1249,6 +1444,7 @@ Content Area
 
 /* After Entry
 --------------------------------------------- */
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\000031165}}
 .after-entry {
   background-color: #f5f5f5;
   margin-bottom: 40px;
@@ -1256,21 +1452,25 @@ Content Area
   text-align: center;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\000031172}}
 .after-entry .widget {
   margin-bottom: 40px;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\000031176}}
 .after-entry .widget:last-child,
 .after-entry p:last-child {
   margin: 0;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\000031181}}
 .after-entry li {
   list-style-type: none;
 }
 
 /* Pagination
 --------------------------------------------- */
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\000031188}}
 .archive-pagination,
 .entry-pagination {
   clear: both;
@@ -1279,10 +1479,12 @@ Content Area
   margin: 40px 0;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\000031196}}
 .archive-pagination li {
   display: inline;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\000031200}}
 .archive-pagination a {
   background-color: #000;
   border-radius: 3px;
@@ -1292,6 +1494,7 @@ Content Area
   padding: 8px 12px;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\000031209}}
 .archive-pagination a:hover,
 .archive-pagination li.active a {
   background-color: #ed702b;
@@ -1300,34 +1503,41 @@ Content Area
 
 /* Comments
 --------------------------------------------- */
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\000031218}}
 .entry-comments,
 .ping-list {
   margin-bottom: 40px;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\000031223}}
 .comment-header {
   font-size: 16px;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\000031227}}
 .comment-content {
   clear: both;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\000031231}}
 .entry-comments .comment-author {
   margin-bottom: 0;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\000031235}}
 .comment-respond input[type="email"],
 .comment-respond input[type="text"],
 .comment-respond input[type="url"] {
   width: 50%;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\000031241}}
 .comment-respond label {
   display: block;
   margin-right: 12px;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\000031246}}
 .comment-list li,
 .ping-list li {
   list-style-type: none;
@@ -1335,10 +1545,12 @@ Content Area
   padding: 32px;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\000031253}}
 .comment-list li li {
   margin-right: -32px;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\000031257}}
 .comment {
   background-color: #f5f5f5;
   border: 2px solid #fff;
@@ -1348,21 +1560,25 @@ Content Area
 /*
 Sidebars
 ---------------------------------------------------------------------------------------------------- */
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\000031271}}
 .sidebar {
   display: inline;
   font-size: 16px;
   padding-top: 32px;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\000031277}}
 .sidebar img {
   margin-bottom: 10px;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\000031281}}
 .sidebar p:last-child,
 .sidebar ul {
   margin-bottom: 0;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\000031286}}
 .widget li {
   border-bottom: 1px solid #ddd;
   list-style-type: none;
@@ -1372,6 +1588,7 @@ Sidebars
   word-wrap: break-word;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\000031295}}
 .widget ol > li {
   list-style-position: inside;
   list-style-type: decimal;
@@ -1379,17 +1596,20 @@ Sidebars
   text-indent: -20px;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\000031302}}
 .widget ul ol > li {
   list-style-position: outside;
   text-indent: 0;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\000031307}}
 .widget li li {
   border: none;
   margin: 0 0 0 30px;
   padding: 0;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\000031313}}
 .widget ol > li:last-child,
 .widget ul > li:last-child {
   border-width: 0;
@@ -1397,10 +1617,12 @@ Sidebars
   padding-bottom: 0;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\000031320}}
 .sidebar .widget {
   margin-bottom: 40px;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\000031324}}
 .sidebar .search-form {
   width: 100%;
 }
@@ -1408,6 +1630,7 @@ Sidebars
 /*
 Footer Widgets
 ---------------------------------------------------------------------------------------------------- */
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\000031333}}
 .footer-widgets {
   background-color: #000;
   color: #999;
@@ -1416,37 +1639,45 @@ Footer Widgets
   padding: 40px 0 8px;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\000031341}}
 .footer-widgets-1,
 .footer-widgets-3 {
   width: 350px;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\000031346}}
 .footer-widgets-2 {
   width: 360px;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\000031350}}
 .footer-widgets-1 {
   margin-right: 40px;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\000031354}}
 .footer-widgets-1,
 .footer-widgets-2 {
   float: left;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\000031359}}
 .footer-widgets-3 {
   float: right;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\000031363}}
 .footer-widgets .widget {
   margin-bottom: 32px;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\000031367}}
 .footer-widgets .entry-title a,
 .footer-widgets .widgettitle {
   color: #fff;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\000031372}}
 .footer-widgets li {
   border-bottom: 1px solid #333;
   list-style-type: none;
@@ -1455,10 +1686,12 @@ Footer Widgets
   word-wrap: break-word;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\000031380}}
 .footer-widgets .search-form {
   width: 100%;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\000031384}}
 .footer-widgets .latest-tweets li span a {
   color: #ccc;
 }
@@ -1466,22 +1699,26 @@ Footer Widgets
 /*
 Site Footer
 ---------------------------------------------------------------------------------------------------- */
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\000031393}}
 .site-footer {
   font-size: 16px;
   padding: 40px 0;
   text-align: center;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\000031399}}
 .site-footer,
 .site-footer a {
   color: #000;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\000031404}}
 .site-footer a:hover {
   color: #ed702b;
   text-decoration: none;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\000031409}}
 .site-footer p {
   margin-bottom: 0;
 }
@@ -1599,27 +1836,32 @@ Color Styles
 Media Queries
 ---------------------------------------------------------------------------------------------------- */
 @media only screen and (max-width: 1139px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\000031533}}
   .wrap {
     max-width: 960px;
   }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\000031537}}
   .content-sidebar-sidebar .content-sidebar-wrap,
   .sidebar-content-sidebar .content-sidebar-wrap,
   .sidebar-sidebar-content .content-sidebar-wrap {
     width: 740px;
   }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\000031543}}
   .content,
   .site-header .widget-area {
     width: 620px;
   }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\000031548}}
   .content-sidebar-sidebar .content,
   .sidebar-content-sidebar .content,
   .sidebar-sidebar-content .content {
     width: 400px;
   }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\000031554}}
   .footer-widgets-1,
   .footer-widgets-2,
   .footer-widgets-3,
@@ -1629,14 +1871,17 @@ Media Queries
   }
 }
 @media only screen and (max-width: 960px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\000031566}}
   .header-image .site-header .title-area {
     background-position: center center !important;
   }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\000031570}}
   .wrap {
     max-width: 768px;
   }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\000031574}}
   .content,
   .content-sidebar-sidebar .content,
   .content-sidebar-sidebar .content-sidebar-wrap,
@@ -1654,16 +1899,19 @@ Media Queries
     width: 100%;
   }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\000031591}}
   .site-header {
     position: static;
   }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\000031595}}
   .site-inner {
     margin-top: 0;
     padding-left: 5%;
     padding-right: 5%;
   }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\000031601}}
   .comment-respond,
   .entry,
   .entry-comments,
@@ -1673,10 +1921,12 @@ Media Queries
     padding: 0;
   }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\000031610}}
   .genesis-nav-menu li {
     float: none;
   }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\000031614}}
   .genesis-nav-menu,
   .site-header .title-area,
   .site-title,
@@ -1684,55 +1934,67 @@ Media Queries
     text-align: center;
   }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\000031621}}
   .nav-primary {
     float: none;
   }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\000031625}}
   .responsive-menu {
     display: none;
   }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\000031629}}
   #responsive-menu-icon {
     display: block;
   }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\000031633}}
   .nav-primary .genesis-nav-menu a {
     padding: 20px 10px;
   }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\000031637}}
   .content {
     border: none;
     padding-left: 0;
     padding-right: 0;
   }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\000031643}}
   .entry-footer .entry-meta {
     margin: 0;
     padding-top: 12px;
   }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\000031648}}
   .author-box {
     padding: 20px;
   }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\000031652}}
   .sidebar-content-sidebar .author-box {
     margin-left: 0;
     margin-right: 0;
   }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\000031657}}
   .footer-widgets {
     padding: 40px 5% 16px;
   }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\000031661}}
   .footer-widgets-1 {
     margin: 0;
   }
 }
 @media only screen and (max-width: 960px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\000031670}}
   .site-description {
     font-size: 24px;
   }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\000031674}}
   .five-sixths,
   .four-sixths,
   .one-fourth,
@@ -1748,12 +2010,14 @@ Media Queries
     width: 100%;
   }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\000031689}}
   .genesis-grid-even,
   .genesis-grid-odd {
     width: 100%;
   }
 }
 @media only screen and (max-width: 320px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_edited_eleven40-pro_style\.scss}line{font-family:\000031698}}
   .header-image .site-header .title-area {
     background-size: contain !important;
   }
@@ -1764,64 +2028,78 @@ INSURANCE SHOP STYLING
 
 */
 /*---------------main-------------------*/
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_insurance_shop\.scss}line{font-family:\000039}}
 body {
   font-size: 16px;
   font-size: 1rem;
   line-height: 1.4;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_insurance_shop\.scss}line{font-family:\0000314}}
 h1, h2, h3 {
   letter-spacing: -2px;
 }
 
 /*--------------structural--------------*/
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_insurance_shop\.scss}line{font-family:\0000322}}
 .content {
   width: 800px;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_insurance_shop\.scss}line{font-family:\0000325}}
 .sidebar-primary {
   width: 300px;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_insurance_shop\.scss}line{font-family:\0000329}}
 .wrap {
   max-width: 1120px;
 }
 
 /*----------------menu header----------------------*/
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_insurance_shop\.scss}line{font-family:\0000337}}
 .site-header {
-  background-color: #0077AF;
+  background-color: #0077af;
   border-bottom: 2px solid #006696;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_insurance_shop\.scss}line{font-family:\0000345}}
 .site-inner {
   margin: 50px 0 40px;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_insurance_shop\.scss}line{font-family:\0000349}}
 .site-header {
   min-height: 50px;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_insurance_shop\.scss}line{font-family:\0000353}}
 .genesis-nav-menu a {
   padding: 18px 18px;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_insurance_shop\.scss}line{font-family:\0000357}}
 .nav-primary .genesis-nav-menu a {
   font-size: 14px;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_insurance_shop\.scss}line{font-family:\0000361}}
 .nav-primary a:hover {
   color: #f28215;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_insurance_shop\.scss}line{font-family:\0000365}}
 .nav-primary .sub-menu .current-menu-item > a:hover, .nav-primary .sub-menu a:hover {
   color: #f28215;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_insurance_shop\.scss}line{font-family:\0000369}}
 .nav-primary .sub-menu a {
-  background-color: #0077AF;
+  background-color: #0077af;
 }
 
 /*--------------------- header branding area-------------------*/
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_insurance_shop\.scss}line{font-family:\0000375}}
 .head-branding {
   margin: 50px 0 0 0;
   background: #fff;
@@ -1831,6 +2109,7 @@ h1, h2, h3 {
   background: url("/wp-content/themes/eleven40-pro/images/grey.png");
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_insurance_shop\.scss}line{font-family:\0000392}}
 .header-image .site-title {
   height: 145px;
   background: url("/wp-content/themes/eleven40-pro/images/head-logo.png") no-repeat;
@@ -1838,20 +2117,23 @@ h1, h2, h3 {
   letter-spacing: -3px;
   word-spacing: 2px;
 }
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_insurance_shop\.scss}line{font-family:\0000398}}
 .header-image .site-title a {
   position: relative;
   top: 39px;
   left: 162px;
   color: #444444;
-  text-shadow: 1px 1px 0px #fff;
+  text-shadow: 1px 1px 0px white;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_insurance_shop\.scss}line{font-family:\00003107}}
 .head-branding-right {
   padding: 20px 0 0 0;
   text-align: right;
-  text-shadow: 1px 1px 0px #fff;
+  text-shadow: 1px 1px 0px white;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_insurance_shop\.scss}line{font-family:\00003114}}
 .site-description {
   font-size: 20px;
   font-size: 1.25rem;
@@ -1860,9 +2142,10 @@ h1, h2, h3 {
   float: left;
   font-family: "Droid Sans", serif;
   color: #e2f6ff;
-  text-shadow: 0px 0px 1px #333;
+  text-shadow: 0px 0px 1px #333333;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_insurance_shop\.scss}line{font-family:\00003125}}
 .head-contact-info p {
   line-height: 100%;
   font-size: 22px;
@@ -1870,6 +2153,7 @@ h1, h2, h3 {
 }
 
 /*---------------------secondary menu------------------*/
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_insurance_shop\.scss}line{font-family:\00003137}}
 .nav-secondary .genesis-nav-menu a {
   padding: 5px 10px;
   font-family: "Droid Sans", serif;
@@ -1879,32 +2163,38 @@ h1, h2, h3 {
   padding-right: 0;
   margin-right: 0;
 }
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_insurance_shop\.scss}line{font-family:\00003145}}
 .nav-secondary .genesis-nav-menu a:hover {
   color: #f28215;
 }
 
 /*----------------------content area-------------------------*/
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_insurance_shop\.scss}line{font-family:\00003155}}
 .site-inner {
   margin: 0 0 40px 0;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_insurance_shop\.scss}line{font-family:\00003160}}
 .content {
   border-right: 0;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_insurance_shop\.scss}line{font-family:\00003164}}
 .entry-title {
   font-size: 37px;
   font-size: 2.3125rem;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_insurance_shop\.scss}line{font-family:\00003169}}
 button,
 input[type="button"],
 input[type="reset"],
 input[type="submit"],
 .button {
-  background-color: #0077AF;
+  background-color: #0077af;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_insurance_shop\.scss}line{font-family:\00003177}}
 button:hover,
 input:hover[type="button"],
 input:hover[type="reset"],
@@ -1915,10 +2205,12 @@ input:hover[type="submit"],
 }
 
 /*-----------------HOME PAGE-------------------------------*/
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_insurance_shop\.scss}line{font-family:\00003189}}
 .home .content {
   display: none;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_insurance_shop\.scss}line{font-family:\00003194}}
 .home-strap {
   color: #0077AF;
   font-size: 32px;
@@ -1929,81 +2221,102 @@ input:hover[type="submit"],
   padding: 0 5%;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_insurance_shop\.scss}line{font-family:\00003204}}
 .home-box {
   background: #f28215;
   padding: 1em;
   font-family: "Droid Sans", serif;
   box-shadow: inset 0px 0px 10px 1px rgba(0, 0, 0, 0.1);
+  font-size: 18px;
+  font-size: 1.125rem;
 }
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_insurance_shop\.scss}line{font-family:\00003205}}
 .home-box h3 {
   text-shadow: 0px 1px 0px rgba(0, 0, 0, 0.4);
   color: white;
 }
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_insurance_shop\.scss}line{font-family:\00003209}}
 .home-box ul {
   color: rgba(255, 255, 255, 0.8);
   list-style-type: none;
 }
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_insurance_shop\.scss}line{font-family:\00003213}}
 .home-box ul a {
   color: rgba(255, 255, 255, 0.9);
-  text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.2);
+  text-shadow: 0px 0px 2px rgba(0, 0, 0, 0.6);
 }
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_insurance_shop\.scss}line{font-family:\00003217}}
 .home-box ul li {
   margin-bottom: 0.8em;
   line-height: 1.1;
 }
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_insurance_shop\.scss}line{font-family:\00003222}}
 .home-box p:last-child {
   margin-bottom: 0;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_insurance_shop\.scss}line{font-family:\00003232}}
 .box2-1 {
-  background: #f28215 url("images/home-page-background_03.png") no-repeat;
-}
-
-.box3-1 {
   background: #f28215 url("images/home-page-background_02.png") no-repeat;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_insurance_shop\.scss}line{font-family:\00003233}}
+.box3-1 {
+  background: #f28215 url("images/home-page-background_03.png") no-repeat;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_insurance_shop\.scss}line{font-family:\00003234}}
 .box4-1 {
   background: #f28215 url("images/home-page-background_01.png") no-repeat;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_insurance_shop\.scss}line{font-family:\00003235}}
 .box2-1, .box3-1, .box4-1 {
   height: 500px;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_insurance_shop\.scss}line{font-family:\00003238}}
 .box1-1, .box1-2 {
   margin-bottom: 1em;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_insurance_shop\.scss}line{font-family:\00003241}}
 .box1-2 {
   font-size: 20px;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_insurance_shop\.scss}line{font-family:\00003245}}
 .box1-2 {
   color: #444;
   font-weight: 700;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_insurance_shop\.scss}line{font-family:\00003250}}
 .box1-1, .box1-3 {
   color: #fff;
 }
 
 /*-----------------SIDEBARS-------------------------------*/
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_insurance_shop\.scss}line{font-family:\00003258}}
 .sidebar .widget {
   background: #f28215;
   color: #fff;
 }
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_insurance_shop\.scss}line{font-family:\00003262}}
 .sidebar .widget a {
   color: #fff;
   border-bottom: 1px dotted #fff;
 }
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_insurance_shop\.scss}line{font-family:\00003263}}
 .sidebar .widget a:hover {
   text-decoration: none;
   border-bottom: 1px solid #fff;
 }
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_insurance_shop\.scss}line{font-family:\00003264}}
 .sidebar .widget li {
   border-bottom: 1px solid #fff6ed;
 }
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_insurance_shop\.scss}line{font-family:\00003267}}
 .sidebar .widget-title {
   font-size: 18px;
   font-size: 1.125rem;
@@ -2012,37 +2325,45 @@ input:hover[type="submit"],
   color: #fff6ed;
   margin-bottom: 5px;
 }
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_insurance_shop\.scss}line{font-family:\00003275}}
 .sidebar .widget-title + div {
   padding: 1em;
 }
 
 /*----------------------------FOOTER-------------------*/
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_insurance_shop\.scss}line{font-family:\00003283}}
 .footer-widgets {
   background: #f6f6f6;
   border-top: 10px solid #f28215;
 }
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_insurance_shop\.scss}line{font-family:\00003286}}
 .footer-widgets h1, .footer-widgets h2, .footer-widgets h3, .footer-widgets h4, .footer-widgets h5, .footer-widgets .widget-title {
   color: #444;
 }
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_insurance_shop\.scss}line{font-family:\00003290}}
 .footer-widgets .entry-title a {
   color: #444;
 }
 
 /*-----------------------MEDIA QUERIES--------------------*/
 @media only screen and (max-width: 1139px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_insurance_shop\.scss}line{font-family:\00003303}}
   .content {
     width: 620px;
   }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_insurance_shop\.scss}line{font-family:\00003306}}
   .sidebar-primary {
     width: 300px;
   }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_insurance_shop\.scss}line{font-family:\00003310}}
   .wrap {
     max-width: 940px;
   }
 }
 @media only screen and (max-width: 960px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_insurance_shop\.scss}line{font-family:\00003320}}
   .header-image .site-title {
     text-align: left;
     font-size: 37px;
@@ -2050,31 +2371,38 @@ input:hover[type="submit"],
     letter-spacing: -1px;
   }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_insurance_shop\.scss}line{font-family:\00003328}}
   .head-branding {
     padding: 20px 5%;
     margin-top: 0;
   }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_insurance_shop\.scss}line{font-family:\00003333}}
   .site-header {
     padding: 0px 5%;
   }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_insurance_shop\.scss}line{font-family:\00003337}}
   .content {
     width: 100%;
   }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_insurance_shop\.scss}line{font-family:\00003341}}
   .sidebar-primary {
     width: 100%;
   }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_insurance_shop\.scss}line{font-family:\00003345}}
   .wrap {
     max-width: 768px;
   }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_insurance_shop\.scss}line{font-family:\00003349}}
   .head-contact-info, .nav-secondary .genesis-nav-menu {
     text-align: left;
   }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_insurance_shop\.scss}line{font-family:\00003355}}
   .nav-secondary .genesis-nav-menu a {
     padding-left: 0;
     margin-left: 0;
@@ -2082,18 +2410,21 @@ input:hover[type="submit"],
     margin-right: 10px;
   }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_insurance_shop\.scss}line{font-family:\00003364}}
   .home-box ul {
     margin-top: 1em;
   }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_insurance_shop\.scss}line{font-family:\00003368}}
   .box2-1, .box3-1, .box4-1 {
     background: #f28215;
     margin-top: 1em;
     height: auto;
   }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/my\%20docs\/web_server\/TheInsuranceShop\/wp-content\/themes\/eleven40-pro\/sass\/_insurance_shop\.scss}line{font-family:\00003373}}
   .box2-1, .box4-1 {
-    background: #0077AF;
+    background: #0077af;
     margin-top: 1em;
     height: auto;
   }
